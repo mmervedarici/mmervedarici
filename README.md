@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmervedarici
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning PhP
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on people around the world
 - 📫 How to reach me (NOT :) )
 <!---
